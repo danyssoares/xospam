@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">xospam</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="config">Configuração</string>
+	<string name="salvar">Salvar</string>
+	<string name="cancelar">Cancelar</string>
+	<string name="numeroOperadora">Número da Operadadora</string>
+	
+		<string-array name="menuSms">
+			<item>Desconsiderar</item>
+			<item>Excluir</item>
+			<item>Enviar</item>
+		</string-array>
+</resources>
